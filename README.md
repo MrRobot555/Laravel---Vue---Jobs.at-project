@@ -1,3 +1,17 @@
+The solution will not work if Laravel server is not running on port 8001, because mine is running there, and port number is used in AddJos.vue, Home.vue, and Login.vue.
+
+Moreover, my
+
+DB_USERNAME=codinguser
+DB_PASSWORD=codingpass
+
+With these settings, my application fulfills ALL requirements.
+
+
+
+
+
+
 ## Task description
 
 We want you to create a small web app where the user can find jobs he/she is interested in. Moreover, there should
